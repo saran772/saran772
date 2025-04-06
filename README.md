@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Frontend Development<br>Learning about DSA, Development<br>Most of my projects are available on Github. <br>You ping me about JS, react ,c++, java
+I'm currently working on Frontend Development<br>Learning about DSA, Development<br>Most of my projects are available on Github. <br>You ping me about JS, react ,c++
 
 
 ## 🌐 Socials:
